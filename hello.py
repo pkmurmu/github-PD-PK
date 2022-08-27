@@ -5,3 +5,5 @@ def print_func(a):
 #print("Hello World")
 if __name__ == '__main__':
 	print_func("Hello World.")
+
+# This is the ended of the code defines in new branch test.
