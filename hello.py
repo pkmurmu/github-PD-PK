@@ -1,3 +1,4 @@
+#This is the function
 def print_func(a):
 	print(a)
 # This will be printed in the terminal
